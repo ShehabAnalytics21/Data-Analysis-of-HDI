@@ -32,7 +32,8 @@
 ## About The Project:
 * This Project will 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen
+Shot][product-screenshot]](https://example.com)
 
 ### Built With:
 
@@ -136,5 +137,4 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screen
-shot]: images/screenshot.png
+[product-screenshot]: images/screenshot.png
