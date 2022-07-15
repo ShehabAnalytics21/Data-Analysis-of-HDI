@@ -1,15 +1,5 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Data Analytics of HDI">
-    <img src="images/logo.png" alt="Logo" width="340" height="340">
-  </a>
-
-  <h3 align="center">Data Analytics of HDI</h3>
-</div>
-
-
+# Data Analytics of HDI
 
 <!-- TABLE OF CONTENTS -->
 <details>
