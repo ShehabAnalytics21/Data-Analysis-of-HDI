@@ -14,7 +14,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -31,15 +30,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project:
+* This Project will 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With:
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![R][R.js]][R-url]
+This report was built using RStudio and the extracted data comes from a CSV file.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -51,14 +48,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites:
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation:
 
@@ -147,4 +136,5 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png
+[product-screen
+shot]: images/screenshot.png
