@@ -18,7 +18,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -30,109 +29,71 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project:
-* This Project will 
+*	The Human Development Index (HDI) is an index that ranks nations into four levels of human development based on statistics related to life expectancy, education levels, and per capita income.
+*	In this report, the relationship between the different components of HDI will be studied and analysed, specifically, two main questions of interest are to be addressed in this report, the two questions are: 
+  1.	Is there a relationship between the Mean Years of Schooling and the Gross National Income per capita?
+  2.	How much difference is there in the expected years of schooling between different countries of different HDI rankings?
 
 [![Product Name Screen
 Shot][product-screenshot]](https://example.com)
 
 ### Built With:
-
 This report was built using RStudio and the extracted data comes from a CSV file.
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started:
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Installation:
+To get the report up and running, please follow these simple steps:
+1.	First, fork the project to your own repository.
+2.	Download the “Data Analysis of HDI.html” file provided in the directory.
+3.	Open the Html file either in a web browser such as Chrome or Safari. 
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+To get the underlying R code of this report, please follow the instructions:
+1.	First, fork the project to your own repository.
+2.	Download the excel file provided in the directory. 
+3.	Download the “Data Analysis of HDI.Rmd” file into the same folder where the Excel file was saved. 
+4.	Open and Run the Rmd code (You will need RStudio or another source code editor software to run the file). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage:
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The HDI (Human Development Index) analysis presented in this report could be useful to a vast segment of society, including individuals involved in charities, hospitals, governments, insurance firms, etc. The trends that the statistics provide are very important to the stakeholders because they give them important information that, depending on their level of involvement, can be used as a method of improvement in many areas. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
 ## Contributing:
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License:
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the Apache-2.0 license. See LICENSE.txt for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 ## Contact:
+My Name – Shehab Shahin
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Email: [shahin.shehab21@gmail.com](shahin.shehab21@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments:
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
