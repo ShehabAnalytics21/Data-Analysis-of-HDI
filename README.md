@@ -48,14 +48,15 @@ This report was built using RStudio and the extracted data comes from a CSV file
 ### Installation:
 To get the report up and running, please follow these simple steps:
 1.	First, fork the project to your own repository.
-2.	Download the “Data Analysis of HDI.html” file provided in the directory.
-3.	Open the Html file either in a web browser such as Chrome or Safari. 
+2.	Open the Rmd code. 
 
-To get the underlying R code of this report, please follow the instructions:
+To view the report in an Html format, please follow the instructions:
 1.	First, fork the project to your own repository.
 2.	Download the excel file provided in the directory. 
 3.	Download the “Data Analysis of HDI.Rmd” file into the same folder where the Excel file was saved. 
-4.	Open and Run the Rmd code (You will need RStudio or another source code editor software to run the file). 
+4.  Use RStudio to run the file.
+5.  Knit the file to an Html format using the Knit button.
+6.  Open the Html file in a web browser such as Chrome or Safari.   
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
